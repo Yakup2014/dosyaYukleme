@@ -14,7 +14,7 @@ using namespace std;
 
 int main()
 {
-    ofstream dosya("Deneyap.txt");
+    ofstream dosya("deneyap.txt");
     
     for(int i=0; i<10; i++){
         int sayi;
